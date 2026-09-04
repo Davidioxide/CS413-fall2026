@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: **Dave Feng**
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+**Git is a technology that realizes version control, whereas Github is an online platform that is mainly used for storing the repositories tracked by git.**
